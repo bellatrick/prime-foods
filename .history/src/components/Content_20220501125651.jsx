@@ -87,7 +87,7 @@ export default function Example() {
                   <span>
                     3. When the water in the pot is boispanng, reduce the heat
                     of the stove to medium heat and then, pour the mixed
-                    Yuca flour into the boiling water.{" "}
+                    Yuca flour into the boispanng water.{" "}
                   </span>
                   <br />
                   <span>
