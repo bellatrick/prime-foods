@@ -18,7 +18,7 @@ export default function Example() {
             </div>
             <div className="flex gap-8 text-white font-bold cursor-pointer  ">
               <a
-                className="hover:bg-gray-400 hover:text-white w-28 sm:w-32 py-2 text-white bg-gray-800 rounded-md"
+                className="hover:bg-gray-400 hover:text-white w-28 py-2 text-white bg-gray-800 rounded-md"
                 href="#About"
               >
                 About{" "}
