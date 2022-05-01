@@ -73,7 +73,7 @@ export default function Example() {
         </Fade>
       </main>
 
-      <div className="absolute hidden sm:inline-block bottom-0 left-0 right-0 w-full">
+      <div className="absolute hidden sm:inlinr bottom-0 left-0 right-0 w-full">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 1440 320"

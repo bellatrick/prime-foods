@@ -13,7 +13,7 @@ export default function Example() {
               <img
                 src={logo}
                 alt=""
-                className="h-12 w-auto sm:h-12 object-fill"
+                className="h-12 w-auto sm:h-12 object-cover"
               />
             </div>
             <div className="flex gap-8 text-white font-bold cursor-pointer  ">
