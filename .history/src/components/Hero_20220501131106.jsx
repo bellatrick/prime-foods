@@ -24,7 +24,7 @@ export default function Example() {
                 About{" "}
               </a>
               <a
-                className="hover:bg-gray-400 hover:text-white w-28 sm:w-32 py-2 ml-4 text-white bg-gray-800 rounded-md"
+                className="hover:bg-gray-400 hover:text-white w-28 sm:w-32 py-2 ml text-white bg-gray-800 rounded-md"
                 href="#contact-us"
               >
                 Contact us
