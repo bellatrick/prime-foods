@@ -51,8 +51,8 @@
               </a>
             ))}
           </div> */}
-           <p className="mb-4 text-center text-base text-gray-100">Shoot us a mail us at Primefoods02@gmail.com</p>
-          <p className=" text-center text-base text-gray-100">&copy; 2022 Prime foods. All rights reserved.</p>
+           <p className="mb-4 text-center text-base text-gray-100">Email us at Primefoods02@gmail.com</p>
+          <p className="mt-8 text-center text-base text-gray-100">&copy; 2022 Prime foods. All rights reserved.</p>
         </div>
       </footer>
     )

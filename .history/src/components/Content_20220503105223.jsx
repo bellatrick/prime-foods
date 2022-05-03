@@ -78,7 +78,7 @@ export default function Example() {
                   <br />
                   <span>
                     {" "}
-                    2. Get a bowl, pour a cup of Yuca flour in it and add cold water
+                    2. a bowl, pour a cup of Yuca flour in it and add cold water
                     into the bowl. Use a wooden spatula to stir the water and
                     Yuca flour continuously until a smooth consistency is
                     achieved.

@@ -73,12 +73,12 @@ export default function Example() {
                   <span>
                     {" "}
                     1. Pour about 500ml of water into a clean pot and leave to
-                    boil on high heat.
+                    boil on high heat
                   </span>
                   <br />
                   <span>
                     {" "}
-                    2. Get a bowl, pour a cup of Yuca flour in it and add cold water
+                    2. a bowl, pour a cup of Yuca flour in it and add cold water
                     into the bowl. Use a wooden spatula to stir the water and
                     Yuca flour continuously until a smooth consistency is
                     achieved.
@@ -92,7 +92,7 @@ export default function Example() {
                   <br />
                   <span>
                     {" "}
-                    4. Continue stirring for a couple of minutes and then allow to cook
+                    4. Continue stirring for 1-2 minutes and then allow to cook
                     on low heat for about a minute.
                   </span>
                   <br />

@@ -35,7 +35,7 @@ export default function Example() {
               <Slide left>
                 <div className="mt-4 flex justify-center sm:mt-8 sm:ml-3 cursor-pointer">
                   <a
-                    href={`https://wa.me/${'+2348108932677'}/?text=${'Hello, i just got off your website and i would like to...'}`}
+                    href={`https://wa.me/${'+2348185856576'}/?text=${'Hello, i just got off your website and i would like to...'}`}
                     rel="noreferrer"
                     className=" flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md bg-white text-gray-600 hover:bg-gray-400 hover:text-white cursor-pointer md:py-4 md:text-lg md:px-10"
                   >
